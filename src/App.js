@@ -54,6 +54,8 @@ export default function App() {
         alt=""
         width="70"
       />
+      <br />
+      <a href="https://github.com/cmorgan-hm/weather-react"> github profile </a>
     </div>
   );
 }
